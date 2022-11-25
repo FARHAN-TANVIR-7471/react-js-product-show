@@ -1,0 +1,10 @@
+nav a{
+    text-decoration: none;
+    color:black;
+    margin: 20px;
+    size: 16px;
+}
+
+nav a:hover{
+    color: rgb(142, 131, 72);
+}
